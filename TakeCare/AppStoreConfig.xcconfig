@@ -1,0 +1,19 @@
+//
+//  ServiceConfig.xcconfig
+//  TakeCare
+//
+//  Created by Lim on 2019/11/29.
+//  Copyright © 2019 Apps Studio. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include "../Pods/Target Support Files/Pods-TakeCare/Pods-TakeCare.release.xcconfig"
+
+ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon
+
+PRODUCT_BUNDLE_IDENTIFIER = io.appsstudio.TakeCare
+
+BUNDLE_DISPLAY_NAME = 아이를 부탁해
+
+CODE_SIGN_ENTITLEMENTS = TakeCare/TakeCare.entitlements

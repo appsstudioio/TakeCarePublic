@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  TakeCare
+
+  Created by DONGJU LIM on 2021/12/15.
+  Copyright © 2021 Apps Studio. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "아이를 부탁해";
+"NSContactsUsageDescription" = "사용자 연락처에 접근합니다.\n사용자의 연락처 정보는 서버에 저장되지 않습니다.";
+"NSLocationWhenInUseUsageDescription" = "사용자 위치 정보는 저장되지 않으며, 현재 위치의 날씨 정보를 가져오기 위해서 사용됩니다.";
+"NSCameraUsageDescription" = "사용자 카메라를 사용합니다.";
+"NSPhotoLibraryAddUsageDescription" = "사용자 앨범에 사진을 저장합니다.";
+"NSPhotoLibraryUsageDescription" = "사용자 사진에 접근합니다.";
+"NSUserTrackingUsageDescription" = "귀하의 데이터는 더 나은 맞춤형 광고 경험을 제공하는 데 사용됩니다.";

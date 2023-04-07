@@ -1,0 +1,20 @@
+[
+    {"name" : "WeatherAPI", "url" : "https://github.com/weatherapicom/weatherapi-iOS/blob/CodeGen-OBJC/LICENSE"},
+    {"name" : "Moya", "url" : "https://github.com/Moya/Moya/blob/master/License.md"},
+    {"name" : "KeychainSwift", "url" : "https://github.com/evgenyneu/keychain-swift/blob/master/LICENSE"},
+    {"name" : "Firebase", "url" : "https://github.com/firebase/firebase-ios-sdk/blob/master/LICENSE"},
+    {"name" : "GoogleMaps", "url" : "https://cloud.google.com/maps-platform/terms/#10-license-restrictions"},
+    {"name" : "Toast-Swift", "url" : "https://github.com/scalessec/Toast-Swift/blob/master/LICENSE"},
+    {"name" : "SpringIndicator", "url" : "https://github.com/KyoheiG3/SpringIndicator/blob/master/LICENSE"},
+    {"name" : "SwiftIcons", "url" : "https://github.com/ranesr/SwiftIcons/blob/master/LICENSE"},
+    {"name" : "EasyTipView", "url" : "https://github.com/teodorpatras/EasyTipView/blob/master/LICENSE"},
+    {"name" : "RealmSwift", "url" : "https://github.com/realm/realm-cocoa/blob/master/LICENSE"},
+    {"name" : "Solar", "url" : "https://github.com/ceeK/Solar/blob/master/LICENSE"},
+    {"name" : "SQLite.swift", "url" : "https://github.com/stephencelis/SQLite.swift/blob/master/LICENSE.txt"},
+    {"name" : "Lottie", "url" : "https://github.com/airbnb/lottie-ios/blob/master/LICENSE"},
+    {"name" : "XLPagerTabStrip", "url" : "https://github.com/xmartlabs/XLPagerTabStrip/blob/master/LICENSE"},
+    {"name" : "잘난체", "url" : "https://image.goodchoice.kr/images/jalnan_font/jalnan-font.pdf"},
+    {"name" : "빙그레체", "url" : "http://www.bingfont.co.kr/license.html"},
+    {"name" : "Creative Commons", "url" : "https://creativecommons.org/licenses/by-sa/4.0/deed.ko"},
+    {"name" : "icons8", "url" : "https://icons8.com/license"}
+]

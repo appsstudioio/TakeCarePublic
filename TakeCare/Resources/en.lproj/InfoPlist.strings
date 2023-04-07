@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  TakeCare
+
+  Created by DONGJU LIM on 2021/12/15.
+  Copyright © 2021 Apps Studio. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Care";
+"NSContactsUsageDescription" = "Access user contacts.\nUser's contact information is not stored on the server.";
+"NSLocationWhenInUseUsageDescription" = "User location information is not saved and is used to get weather information for the current location.";
+"NSCameraUsageDescription" = "App uses user's camera.";
+"NSPhotoLibraryAddUsageDescription" = "App saves photos to user's album.";
+"NSPhotoLibraryAddUsageDescription" = "App saves photos to user's album.";
+"NSUserTrackingUsageDescription" = "Your data will be used for providing advertising more efficiently and enriching your time on the app.";
